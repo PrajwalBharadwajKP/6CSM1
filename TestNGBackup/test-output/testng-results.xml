@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-12-26T10:40:08 IST" name="Suite" finished-at="2022-12-26T10:40:34 IST" duration-ms="26417">
+    <groups>
+    </groups>
+    <test started-at="2022-12-26T10:40:08 IST" name="Test1" finished-at="2022-12-26T10:40:31 IST" duration-ms="22834">
+      <class name="TestNG.DataFromXMLFile">
+        <test-method signature="m1(java.lang.String)[pri:0, instance:TestNG.DataFromXMLFile@524d6d96]" started-at="2022-12-26T10:40:08 IST" name="m1" finished-at="2022-12-26T10:40:31 IST" duration-ms="22788" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m1 -->
+      </class> <!-- TestNG.DataFromXMLFile -->
+    </test> <!-- Test1 -->
+    <test started-at="2022-12-26T10:40:08 IST" name="Test2" finished-at="2022-12-26T10:40:34 IST" duration-ms="26417">
+      <class name="TestNG.DataFromXMLFile">
+        <test-method signature="m1(java.lang.String)[pri:0, instance:TestNG.DataFromXMLFile@6a84a97d]" started-at="2022-12-26T10:40:08 IST" name="m1" finished-at="2022-12-26T10:40:34 IST" duration-ms="26376" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Edge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m1 -->
+      </class> <!-- TestNG.DataFromXMLFile -->
+    </test> <!-- Test2 -->
+  </suite> <!-- Suite -->
+</testng-results>
